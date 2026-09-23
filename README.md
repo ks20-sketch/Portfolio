@@ -1,4 +1,4 @@
-# Simple Portfolio
+# Portfolio
 
 A minimal, single-column portfolio: one page, plain layout, easy to edit.
 
